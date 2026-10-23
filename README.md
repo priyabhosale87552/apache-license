@@ -35,8 +35,8 @@ Where:
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/<your-username>/simple-interest-calculator.git
-   cd simple-interest-calculator
+   git clone https://github.com/<your-username>/github-final-projectr.git
+   cd github-final-projectr
    ```
 2. Run the program:
    ```bash
